@@ -1,4 +1,4 @@
-let numero = Math.floor(Math.random() * 10);
+const numero = Math.floor(Math.random() * 10);
 let opcao = 0;
 for (i = 0; i < 3; i++)
 {
